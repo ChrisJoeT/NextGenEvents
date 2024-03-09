@@ -2,7 +2,8 @@
 An Event Management Website to book events online and organize them.
 
 NextGen Event Management Website | College Mini Project
-![localhost_Next_Gen_](https://github.com/ChrisJoeT/NextGenEvents/assets/94181368/59df6741-1c45-4109-971c-8497f2be0ad4)
+![localhost_Next_Gen_ (1)](https://github.com/ChrisJoeT/NextGenEvents/assets/94181368/b206ba19-1bfe-4312-beb0-296acdf26c2c)
+
 
 
 This project aims to develop a fully functional Events Management website using PHP, HTML, CSS, and MYSQL. The events management website will provide details often the source of truth for all planned activities, which gives potential attendees insight into what others can expect if they choose to attend.
