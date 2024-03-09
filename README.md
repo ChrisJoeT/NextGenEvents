@@ -20,5 +20,7 @@ Businesses can efficiently manage the information of employees, information of e
 OBJECTIVES
 
 • Identifying and determining corresponding control measures.
+
 • Programming events in such a way that operational information is transferred.
+
 • Providing the entry point for many processes and activities.
