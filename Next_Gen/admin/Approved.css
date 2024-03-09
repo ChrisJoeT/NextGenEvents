@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap");
+
+h2 {
+    text-align: center;
+    font-family: "Nunito", sans-serif;
+    color: #0460BC;
+}
+
+table.fixed_headers {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table.fixed_headers th, table.fixed_headers td {
+  padding: 10px;
+  text-align: left;
+}
+
+table.fixed_headers th {
+  background-color: #3498db;
+  color: #fff;
+  font-family: "Nunito", sans-serif;
+}
+
+table.fixed_headers tr:hover {
+  background-color: #f5f5f5;
+}
+
+/* Style for table rows */
+table.fixed_headers tr {
+  background-color: #fff; /* Set the background color for table rows */
+  border-bottom: 1px solid #ddd; /* Add a border between rows */
+}
+
+/* Style for table rows on hover */
+table.fixed_headers tr:hover {
+  background-color: #f5f5f5;
+}
+
+/* Style for the forms within table cells */
+table.fixed_headers form {
+  display: inline-block; /* To make the forms appear inline */
+}
+
+/* Style for the submit buttons */
+table.fixed_headers input[name="delete"] {
+  background-color: #5bade4;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+
+table.fixed_headers input[name="delete"]:hover {
+  background-color: #27ae60;
+}
+
+.back-2-admin{
+  background-color: #3498db;
+  margin-top: 20px;
+  border: none;
+  border-radius: 15px;
+  height: 30px; width: 170px;
+  color: white;
+  font-size: 15px;
+  font-family: "Nunito", sans-serif;
+}
+
+.back-2-admin:hover{
+  transform: scale(105%);
+  transition: 0.1s;
+}
