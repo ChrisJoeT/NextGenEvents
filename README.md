@@ -2,7 +2,8 @@
 An Event Management Website to book events online and organize them.
 
 NextGen Event Management Website | College Mini Project
-![localhost_Next_Gen_ (1)](https://github.com/ChrisJoeT/NextGenEvents/assets/94181368/b206ba19-1bfe-4312-beb0-296acdf26c2c)
+![localhost_Next_Gen](https://github.com/ChrisJoeT/NextGenEvents/assets/94181368/dfc9b48a-5ff1-4942-8360-376b25ba0acb)
+
 
 
 
